@@ -7,7 +7,7 @@ This project enhances transformer-based language models, specifically **BERT**, 
 - Adapts and extends the **OpenAI fine-tune-transformer-lm** framework.
 - Explores different training strategies, hyperparameter tuning, and dataset enhancements.
 
-## 📂 Code Structure
+## 📂 Files Overview
 - **`Final_project_dl.ipynb`** – Main notebook for training and evaluation.
 - **`Final Project Report.pdf`** – Comprehensive report detailing the project, methodologies, experiments, and results.
 
