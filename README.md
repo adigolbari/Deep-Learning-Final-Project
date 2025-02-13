@@ -14,3 +14,13 @@ This project enhances transformer-based language models, specifically **BERT**, 
 ## 📖 References
 This project is based on the original implementation from:
 - [OpenAI's fine-tune-transformer-lm](https://github.com/openai/finetune-transformer-lm).
+
+## 👥 Individual Contributions
+- **Adi Yogev Golbari**: Led the integration of the **BERT-based model**, incorporated additional training data from Wikipedia, and modified the existing codebase to support these enhancements. Responsibilities included:
+  - Modifying the **data preprocessing pipeline**.
+  - Updating the **model architecture**.
+  - Ensuring seamless compatibility with the training framework.
+
+- **Or Chen**: Focused on optimizing the model through **hyperparameter tuning** and experimental adjustments. Responsibilities included:
+  - Fine-tuning **learning rates, batch sizes, and dropout rates** to enhance performance.
+  - Integrating and evaluating the **IMDb dataset** to explore its impact on model generalization and contextual understanding.
